@@ -1,0 +1,18 @@
+{
+  "heroTitle": "Web Site\\nDeveloper",
+  "heroText": "I design and build clean websites with smooth motion, clear structure, and details that make the work feel real.",
+  "profileImage": "assets/aziz-profile.jpg",
+  "aboutImage": "assets/aziz-profile.jpg",
+  "hireLink": "mailto:aziz@example.com",
+  "instagram": "https://www.instagram.com/hassin.aziz.184?igsh=MXJ6aDhhY2VwMzk5ZA==",
+  "facebook": "https://www.facebook.com/share/1B3jViwfAN/",
+  "projects": [
+    {
+      "title": "New Project",
+      "description": "Short project description.",
+      "image": "/assets/recovered-project.png",
+      "gallery": [],
+      "url": "#"
+    }
+  ]
+}

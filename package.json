@@ -1,0 +1,17 @@
+{
+  "name": "aziz-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mongodb": "^7.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mongodb": "^7.6.0"
+  }
+}
